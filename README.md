@@ -111,20 +111,25 @@ I enjoy turning ideas into functional projects, learning how systems work and, o
 
 ---
 
-```markdown
 ## 💻 CURRENT OBJECTIVES
 
-> `$ system.mission()`
+<div align="center">
 
-> [✓] Learn Git & GitHub  
-> [✓] Build academic projects  
-> [~] Improve PostgreSQL skills  
-> [~] Develop Frotto  
-> [~] Build a stronger portfolio  
-> [ ] Explore new development technologies  
-> [ ] Turn ideas into real projects  
->
-> `STATUS: IN PROGRESS...`
+<pre>
+$ system.mission()
+
+[✓] Learn Git & GitHub
+[✓] Build academic projects
+[~] Improve PostgreSQL skills
+[~] Develop Frotto
+[~] Build a stronger portfolio
+[ ] Explore new development technologies
+[ ] Turn ideas into real projects
+
+STATUS: IN PROGRESS...
+</pre>
+
+</div>
 
 ---
 
