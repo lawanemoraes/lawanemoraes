@@ -83,29 +83,31 @@ I enjoy turning ideas into functional projects, learning how systems work and, o
 
 <div align="center">
 
-### 🚗 FROTTO
+**### ⚡ LIGHTNINGHUB**
 
-`ACADEMIC PROJECT` • `IN DEVELOPMENT`
+`PERSONAL PROJECT` • `IN DEVELOPMENT`
 
 </div>
 
-**Frotto** is a fleet management system being developed as an academic project, focused on organizing vehicle documentation and information in a more practical and centralized way.
+**LightningHub** is a fleet management system being developed to centralize vehicle, driver, maintenance and documentation management in a practical and organized environment.
 
-### ◈ CURRENT FOCUS
+**### ◈ CURRENT FOCUS**
 
-- Fleet management
-- Vehicle documentation
-- Data organization
-- Database integration
-- Web / mobile experience
+* Fleet management
+* Vehicle registration
+* Driver management
+* Maintenance tracking
+* Vehicle documentation
+* Database integration
+* Dashboard & reports
 
-### ◈ PROJECT STATUS
+**### ◈ PROJECT STATUS**
 
-> DEVELOPMENT IN PROGRESS  
-> SYSTEM: `BUILDING`  
-> NEXT MISSION: `ITERATE / TEST / IMPROVE`
+> DEVELOPMENT STARTING
+> SYSTEM: `BUILDING`
+> NEXT MISSION: `DESIGN / DEVELOP / TEST`
 
-**Team:** Lawane Moraes & Ana Laura
+**Tech Stack:** `HTML` • `CSS` • `JavaScript` • `PostgreSQL`
 
 > More projects will be added as they evolve.
 
@@ -121,8 +123,8 @@ $ system.mission()
 [✓] Learn Git & GitHub
 [✓] Build academic projects
 [~] Improve PostgreSQL skills
-[~] Develop Frotto
-[~] Build a stronger portfolio
+[\~] Develop LightningHub
+[\~] Build a stronger portfolio
 [ ] Explore new development technologies
 [ ] Turn ideas into real projects
 
