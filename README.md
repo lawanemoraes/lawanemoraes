@@ -83,7 +83,7 @@ I enjoy turning ideas into functional projects, learning how systems work and, o
 
 <div align="center">
 
-**## ⚡ LIGHTNINGHUB**
+## ⚡ LIGHTNINGHUB
 
 `PERSONAL PROJECT` • `IN DEVELOPMENT`
 
@@ -91,7 +91,7 @@ I enjoy turning ideas into functional projects, learning how systems work and, o
 
 **LightningHub** is a fleet management system being developed to centralize vehicle, driver, maintenance and documentation management in a practical and organized environment.
 
-**## ◈ CURRENT FOCUS**
+## ◈ CURRENT FOCUS
 
 * Fleet management
 * Vehicle registration
@@ -101,7 +101,7 @@ I enjoy turning ideas into functional projects, learning how systems work and, o
 * Database integration
 * Dashboard & reports
 
-**## ◈ PROJECT STATUS**
+## ◈ PROJECT STATUS
 
 > DEVELOPMENT STARTING
 > SYSTEM: `BUILDING`
