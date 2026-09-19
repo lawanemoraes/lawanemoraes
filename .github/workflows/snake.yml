@@ -21,8 +21,8 @@ jobs:
         with:
           github_user_name: lawanemoraes
           outputs: |
-            dist/github-snake.svg?palette=github-light&color_snake=#3B82F6&color_dots=#DBEAFE,#93C5FD,#60A5FA,#3B82F6,#1D4ED8
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#60A5FA&color_dots=#172554,#1E40AF,#2563EB,#3B82F6,#60A5FA
+            dist/github-snake.svg?color_snake=#3B82F6&color_dots=#DBEAFE,#93C5FD,#60A5FA,#3B82F6,#1D4ED8
+            dist/github-snake-dark.svg?color_snake=#60A5FA&color_dots=#172554,#1E40AF,#2563EB,#3B82F6,#60A5FA
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
