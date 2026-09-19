@@ -133,16 +133,6 @@ STATUS: IN PROGRESS...
 
 ---
 
-## 📡 GITHUB ANALYTICS
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lawanemoraes&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
----
-
 ## 🐍 CONTRIBUTION MATRIX
 
 <div align="center">
