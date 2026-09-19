@@ -137,9 +137,7 @@ STATUS: IN PROGRESS...
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lawanemoraes&show_icons=true&theme=github_dark&hide_border=true&title_color=00D9FF&icon_color=00D9FF" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawanemoraes&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=00D9FF" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lawanemoraes&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
