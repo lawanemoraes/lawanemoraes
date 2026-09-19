@@ -111,21 +111,20 @@ I enjoy turning ideas into functional projects, learning how systems work and, o
 
 ---
 
+```markdown
 ## 💻 CURRENT OBJECTIVES
 
-> ╔══════════════════════════════════════════════╗
-> ║              CURRENT MISSION                 ║
-> ╠══════════════════════════════════════════════╣
-> ║                                              ║
-> ║  [✓] Learn Git & GitHub                      ║
-> ║  [✓] Build academic projects                 ║
-> ║  [~] Improve PostgreSQL skills               ║
-> ║  [~] Develop Frotto                          ║
-> ║  [~] Build a stronger portfolio              ║
-> ║  [ ] Explore new development technologies    ║
-> ║  [ ] Turn ideas into real projects           ║
-> ║                                              ║
-> ╚══════════════════════════════════════════════╝
+> `$ system.mission()`
+
+> [✓] Learn Git & GitHub  
+> [✓] Build academic projects  
+> [~] Improve PostgreSQL skills  
+> [~] Develop Frotto  
+> [~] Build a stronger portfolio  
+> [ ] Explore new development technologies  
+> [ ] Turn ideas into real projects  
+>
+> `STATUS: IN PROGRESS...`
 
 ---
 
@@ -133,37 +132,9 @@ I enjoy turning ideas into functional projects, learning how systems work and, o
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lawanemoraes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lawanemoraes&show_icons=true&theme=github_dark&hide_border=true&title_color=00D9FF&icon_color=00D9FF" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawanemoraes&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=00D9FF" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=lawanemoraes&theme=dark&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lawanemoraes&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 ACHIEVEMENTS
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lawanemoraes&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=6" />
-
-</div>
-
----
-
-## 🐍 CONTRIBUTION MATRIX
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/lawanemoraes/lawanemoraes/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 
 </div>
 
