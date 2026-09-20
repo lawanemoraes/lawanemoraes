@@ -69,9 +69,9 @@ I enjoy turning ideas into functional projects, learning how systems work and, o
 
 > [ DEVELOPMENT ]
 >
-> ├── VS Code
-> ├── Dev-C++
-> ├── Git / GitHub
+> ├── VS Code  
+> ├── Dev-C++  
+> ├── Git / GitHub  
 > └── PostgreSQL / pgAdmin
 >
 > [ DESIGN ]
