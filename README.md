@@ -43,6 +43,7 @@ I enjoy turning ideas into functional projects, learning how systems work and, o
 
 <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
 <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
 <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
 <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
@@ -65,7 +66,8 @@ I enjoy turning ideas into functional projects, learning how systems work and, o
 >
 > ├── VS Code  
 > ├── Dev-C++  
-> ├── Git / GitHub  
+> ├── Git / GitHub
+  ├── Java
 > └── PostgreSQL / pgAdmin
 >
 > [ DESIGN ]
@@ -91,6 +93,8 @@ I enjoy turning ideas into functional projects, learning how systems work and, o
 
 **LightningHub** is a fleet management system being developed to centralize vehicle, driver, maintenance and documentation management in a practical and organized environment.
 
+The project is being built step by step, from the interface and interactions to database integration and backend development.
+
 ## ◈ CURRENT FOCUS
 
 * Fleet management
@@ -103,7 +107,7 @@ I enjoy turning ideas into functional projects, learning how systems work and, o
 
 ## ◈ PROJECT STATUS
 
-> DEVELOPMENT STARTING
+> DEVELOPMENT IN PROGRESS
 > SYSTEM: `BUILDING`
 > NEXT MISSION: `DESIGN / DEVELOP / TEST`
 
@@ -122,7 +126,8 @@ $ system.mission()
 
 [✓] Learn Git & GitHub
 [✓] Build academic projects
-[~] Improve PostgreSQL skills
+[✓] Develop interactive web pages
+[\~] Improve PostgreSQL skills
 [\~] Develop LightningHub
 [\~] Build a stronger portfolio
 [ ] Explore new development technologies
