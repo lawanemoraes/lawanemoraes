@@ -18,18 +18,20 @@
 
 > booting profile...
 >
-> USER: LAWANE MORAES  
-> ROLE: ADS STUDENT  
-> INSTITUTION: FATEC ITAPETININGA  
-> LOCATION: ITAPETININGA, SP  
-> STATUS: LEARNING / BUILDING / DEBUGGING
+> > USER: LAWANE MORAES  
+> > ROLE: SYSTEMS ANALYSIS & DEVELOPMENT STUDENT  
+> > FOCUS: SOFTWARE DEVELOPMENT  
+> > INSTITUTION: FATEC ITAPETININGA  
+> > STATUS: LEARNING / BUILDING / DEBUGGING
 >
-> system message:
-> "building things, breaking things, learning why."
+> > system message:
+> > "building things, breaking things, learning why."
 
-I'm a **Systems Analysis and Development student** at Fatec Itapetininga, currently exploring software development, databases and technology.
+I'm a **Systems Analysis and Development student** at Fatec Itapetininga, focused on software development, web technologies and databases.
 
-I enjoy turning ideas into functional projects, learning how systems work and, occasionally, breaking everything just to understand why it broke.
+I build academic and personal projects while developing practical skills in **Java, JavaScript, HTML, CSS, PostgreSQL, Git and GitHub**.
+
+Currently, I'm developing **LightningHub**, a fleet management system focused on organizing vehicle, driver, maintenance and documentation data.
 
 ---
 
@@ -37,15 +39,17 @@ I enjoy turning ideas into functional projects, learning how systems work and, o
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,postgresql,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,postgresql,git,github&theme=dark" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
 
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css&logoColor=1572B6" />
 
 <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+
+<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
 
 <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
 
@@ -61,7 +65,13 @@ I enjoy turning ideas into functional projects, learning how systems work and, o
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,figma,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,figma&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=canva&logoColor=00C4CC" />
+
+<img src="https://img.shields.io/badge/Dev--C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
 
 </div>
 
