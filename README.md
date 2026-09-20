@@ -37,15 +37,20 @@ I enjoy turning ideas into functional projects, learning how systems work and, o
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,postgresql,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,postgresql,git,github&theme=dark" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
+
 <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+
 <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+
 <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
+
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 
 </div>
@@ -64,10 +69,9 @@ I enjoy turning ideas into functional projects, learning how systems work and, o
 
 > [ DEVELOPMENT ]
 >
-> ├── VS Code  
-> ├── Dev-C++  
+> ├── VS Code
+> ├── Dev-C++
 > ├── Git / GitHub
-  ├── Java
 > └── PostgreSQL / pgAdmin
 >
 > [ DESIGN ]
