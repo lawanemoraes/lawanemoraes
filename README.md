@@ -29,33 +29,29 @@
 
 I'm a **Systems Analysis and Development student** at Fatec Itapetininga, focused on software development, web technologies and databases.
 
-I build academic and personal projects while developing practical skills in **Java, JavaScript, HTML, CSS, PostgreSQL, Git and GitHub**.
+I build academic and personal projects while developing practical skills in **Java, JavaScript, HTML, CSS, PostgreSQL, Node.js, Express, Git and GitHub**.
 
-Currently, I'm developing **LightningHub**, a fleet management system focused on organizing vehicle, driver, maintenance and documentation data.
+Currently, I'm developing **LightningHub**, a fleet management system with a web interface, REST API and PostgreSQL database, focused on managing vehicles and drivers while expanding toward maintenance and documentation modules.
 
 ---
 
-## ⚡ CORE TECHNOLOGIES
+## ◈ CORE TECHNOLOGIES
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,postgresql,git,github&theme=dark" />
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,nodejs,express,postgresql,git,github)](https://skillicons.dev)
 
 <br><br>
 
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
-
-<img src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css&logoColor=1572B6" />
-
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-
-<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
-
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
-
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=%23E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=%231572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=%23339933)
+![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=%23FFFFFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=%234169E1)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=%23F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=%23FFFFFF)
 
 </div>
 
@@ -99,33 +95,35 @@ Currently, I'm developing **LightningHub**, a fleet management system focused on
 
 <div align="center">
 
-## ⚡ LIGHTNINGHUB
+**## ⚡ LIGHTNINGHUB**
 
 `PERSONAL PROJECT` • `IN DEVELOPMENT`
 
 </div>
 
-**LightningHub** is a fleet management system being developed to centralize vehicle, driver, maintenance and documentation management in a practical and organized environment.
+**LightningHub** is a fleet management system being developed to centralize vehicle and driver information, with maintenance and documentation modules planned for future development.
 
-The project is being built step by step, from the interface and interactions to database integration and backend development.
+The project combines a web interface, REST API and PostgreSQL database, allowing the application to communicate with persistent data through a Node.js and Express backend.
 
-## ◈ CURRENT FOCUS
+### ◈ CURRENT FOCUS
 
-* Fleet management
-* Vehicle registration
-* Driver management
-* Maintenance tracking
-* Vehicle documentation
-* Database integration
-* Dashboard & reports
+- Fleet management
+- Vehicle registration and editing
+- Driver registration and management
+- REST API integration
+- PostgreSQL database integration
+- Dashboard and system organization
+- Future maintenance and documentation modules
 
-## ◈ PROJECT STATUS
+### ◈ PROJECT STATUS
 
 > DEVELOPMENT IN PROGRESS
-> SYSTEM: `BUILDING`
-> NEXT MISSION: `DESIGN / DEVELOP / TEST`
 
-**Tech Stack:** `HTML` • `CSS` • `JavaScript` • `PostgreSQL`
+> SYSTEM: `BUILDING`
+
+> CURRENT PHASE: `VEHICLES / DRIVERS / API / DATABASE`
+
+**Tech Stack:** `HTML` • `CSS` • `JavaScript` • `Node.js` • `Express` • `PostgreSQL` • `Git` • `GitHub`
 
 > More projects will be added as they evolve.
 
@@ -136,18 +134,22 @@ The project is being built step by step, from the interface and interactions to 
 <div align="center">
 
 <pre>
+
 $ system.mission()
 
 [✓] Learn Git & GitHub
 [✓] Build academic projects
 [✓] Develop interactive web pages
-[\~] Improve PostgreSQL skills
-[\~] Develop LightningHub
-[\~] Build a stronger portfolio
+[✓] Integrate PostgreSQL databases
+[✓] Build a REST API with Node.js & Express
+[~] Expand LightningHub
+[~] Improve backend development skills
+[~] Build a stronger portfolio
+[ ] Develop maintenance & documentation modules
 [ ] Explore new development technologies
-[ ] Turn ideas into real projects
 
 STATUS: IN PROGRESS...
+
 </pre>
 
 </div>
